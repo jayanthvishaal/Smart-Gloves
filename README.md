@@ -39,8 +39,7 @@ The Voice-Guided SmartGrip Gloves are an assistive technology designed to help i
 
 <img width="527" alt="architechture diagram" src="https://github.com/jayanthvishaal/Smart-Gloves/assets/143342446/d7ff6698-6cf1-44c6-9077-2a462167be55">
 
-![Smart Gloves_page-0001](https://github.com/jayanthvishaal/Smart-Gloves/assets/143342446/4f031938-b3e0-4d64-9871-57dfa0a5268a)
-
+<img width="527" alt="architechture diagram" src="https://github.com/jayanthvishaal/Smart-Gloves/assets/143342446/4f031938-b3e0-4d64-9871-57dfa0a5268a">
 
 <img width="527" alt="architechture diagram" src="https://github.com/jayanthvishaal/Smart-Gloves/assets/143342446/260980b7-162e-470d-a414-24917de5c70d">
 
